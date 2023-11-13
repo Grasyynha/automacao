@@ -1,2 +1,2 @@
 # automacao
-Projeto de automação com Cucumber, Capybara e Selenium
+Projeto de automação no RUBY com Cucumber, Capybara e Selenium
