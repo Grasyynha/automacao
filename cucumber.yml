@@ -1,0 +1,10 @@
+default: -p pretty --publish-quiet -p html -p develop # relatorio
+
+disabled: --publish-quiet
+pretty: --format pretty
+html: --format html --out=report.html
+
+develop: ENVIRONMMENT=develop
+production: ENVIRONMMENT=production
+
+
